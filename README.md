@@ -8,4 +8,4 @@
 
 
 > Each folder also contains index.html
-> styles.css and index.js files. 
+> styles.css and index.js/also helpers.js/ files. 
